@@ -10,6 +10,7 @@ Data source: https://www.kaggle.com/arjunbhasin2013/ccdata
 * numpy
 * matplotlib
 * seaborn
+* sklearn
 
 
 **Models used:**
